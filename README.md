@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satya Prakash.
-- 👀 I’m interested in web development.
+- 👀 I’m interested in MERN stack development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on web development project.
 - 📫 You can reach me at satyaprakash6275@gmail.com
