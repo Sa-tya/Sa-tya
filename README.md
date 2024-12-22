@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ***Satya Prakash*** from India.
+- 👋 Hi, I’m ***Satya Prakash***.
 - 👀 I’m a Software Engineer in Bengaluru.
 - 🌱 I’m currently working on a multilingual Chatbot & Voicebot builder.
 - 💞️ I’m looking to collaborate.
